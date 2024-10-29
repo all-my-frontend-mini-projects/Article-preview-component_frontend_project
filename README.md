@@ -92,7 +92,7 @@ These key points mentioned here will help me grow accountable and consistent tow
 
 <b><strong>Sarthak Sachdev</strong></b>
 - Website - [Sarthak Sachdev](https://itsmesarthak.netlify.app/)
-- LeetCode - [@sarthak_sachdev](https://leetcode.com/u/sarthak_sachdev/)
+- LinkedIn - [@sarthak2004](https://www.linkedin.com/in/sarthak2004/)
 - Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
 
 ## Acknowledgments
